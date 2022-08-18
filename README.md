@@ -10,6 +10,8 @@ demonstrate my ability to create a website with various components such as hyper
 images, paragraphs format, lists, etc..
 
 
-End Self-Reflection-
+End Self-Reflection- Throughout the process of making this project I've many applicable skills, such 
+as when it comes to lists, links, images, and much more.
+
 
 
